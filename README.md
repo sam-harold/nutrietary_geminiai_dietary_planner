@@ -1,4 +1,4 @@
-# 🥗 Nutrietary - AI Dietary Planner
+# Nutrietary - Gemini-based AI Dietary Planner
 
 This repository contains the full-stack codebase for [Nutrietary](https://samhrld-collab.github.io/nutrietary_ai_dietary_planner/), an AI-powered dietary planner. The project is organized into two main parts: a backend API built with Flask and a frontend web application using Vite + React.js.
 
@@ -7,7 +7,7 @@ This repository contains the full-stack codebase for [Nutrietary](https://samhrl
 
 <img width="2940" height="1668" alt="nutrietary-home" src="https://github.com/user-attachments/assets/e67a2b29-76d3-4e61-a4bf-254b42716995" />
 
-## ✨ Features
+## Features
 
   * **User Management**: Secure user registration and login with JWT-based authentication.
   * **Personalized Preferences**: Users can store and update their dietary preferences, budget, and custom requirements.
@@ -16,7 +16,7 @@ This repository contains the full-stack codebase for [Nutrietary](https://samhrl
   * **RESTful API**: A comprehensive set of endpoints for all application functionalities.
   * **Modern Frontend**: A responsive and dynamic user interface built with React.js.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run the full application, you'll need to set up both the backend and frontend separately.
 
@@ -76,7 +76,7 @@ To run the full application, you'll need to set up both the backend and frontend
 
 -----
 
-## 📄 API Endpoints
+## API Endpoints
 
 All backend endpoints are hosted at the base URL (e.g., `http://localhost:5000`).
 
@@ -91,13 +91,13 @@ All backend endpoints are hosted at the base URL (e.g., `http://localhost:5000`)
   * **`DELETE /mealplans/<id>`**: Delete a meal plan (protected).
   * **`GET /health`**: Check server and AI status.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
   * **Backend**: Flask, SQLite, JWT, Gemini 2.5 Flash API
   * **Frontend**: Vite, React.js, Tailwind CSS
   * **Database**: SQLite
 
-## 🤝 Contribution
+## Contribution
 
 Contributions are welcome\! Please follow the standard fork-and-pull-request workflow.
 
